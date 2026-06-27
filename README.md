@@ -8,7 +8,7 @@ https://discord.gg/Hy6eSd7HS8
 
 
 
-# ``` VELOIX OBFUSCATORS ``` 
+# VELOIX OBFUSCATORS
 
 ## -------------------------------------
 #  ```Feature```
@@ -26,4 +26,4 @@ https://discord.gg/Hy6eSd7HS8
 **+ 📁 TXT | LUA | LUAU SUPPORT**
 
 ## ------------------------------------- 
--#  🛡️  V  |  1.4 ||@everyone||
+-#  🛡️  V  |  1.4 
