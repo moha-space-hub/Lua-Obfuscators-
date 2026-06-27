@@ -12,9 +12,14 @@ https://discord.gg/Hy6eSd7HS8
 #  ```Feature```
 
 **+ 🔐 HIGH-LEVEL SECURITY**
+
 **+ 🗃️ Custom Vm**
+
 **+ ⚡ WORKS ON EVERY EXECUTOR**
+
 **+ 🛡️ ANTI ENV LOGGER**
+
 **+ 💀 FAILS EVERY DUMPER / DUMPER BOT**
+
 ## ------------------------------------- 
 -#  🛡️  V  |  1.4 
