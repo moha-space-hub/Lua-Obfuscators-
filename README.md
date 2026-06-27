@@ -9,8 +9,6 @@ https://discord.gg/Hy6eSd7HS8
 
 
 # VELOIX OBFUSCATORS
-
-## -------------------------------------
 #  ```Feature```
 
 **+ 🔐 HIGH-LEVEL SECURITY**
